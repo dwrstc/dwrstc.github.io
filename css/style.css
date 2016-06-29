@@ -2894,8 +2894,8 @@ a[title="站长统计"] {
   padding: 0px 16px;
   line-height: 30px;
   font-size: 13px;
-  color: #727272;
-  background: #e8e8e8;
+  color: #fff;
+  background: #FF4081;
   border-radius: 20px;
 }
 .article-tag-list-link:hover,
