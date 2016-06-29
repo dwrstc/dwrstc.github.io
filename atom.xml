@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Title</title>
-  <subtitle>Subtitle</subtitle>
+  <title>Zoro&#39;s Blog</title>
+  <subtitle>To be a good app citizen.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https:///dwrstc.github.io/"/>
   <updated>2016-06-29T08:24:20.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https:///dwrstc.github.io/</id>
   
   <author>
-    <name>Moon</name>
+    <name>Zoro</name>
     <email>dwrstc@gmail.com</email>
   </author>
   
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello Hexo</title>
-    <link href="http://yoursite.com/2016/06/29/hello-world/"/>
-    <id>http://yoursite.com/2016/06/29/hello-world/</id>
+    <link href="https:///dwrstc.github.io/2016/06/29/hello-world/"/>
+    <id>https:///dwrstc.github.io/2016/06/29/hello-world/</id>
     <published>2016-06-29T07:25:43.000Z</published>
     <updated>2016-06-29T08:24:20.000Z</updated>
     
